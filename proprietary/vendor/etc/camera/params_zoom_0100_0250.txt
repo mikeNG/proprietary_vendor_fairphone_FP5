@@ -1,0 +1,20 @@
+# Morpho Image Refiner Ver.1.35 build.20200819
+camera_motion_threshold=0.8000
+ghost_removal_strength=3.0000
+ghost_rate_threshold=0.2000
+color_enhancement=0.0080,0.0020
+ghost_map_sharing_enabled=0
+mfnr_ghost_removal_strength=1.2000
+mfnr_texture_preservation_level=220
+luma_noise_reduction_coeff=1.0000
+chroma_noise_reduction_coeff=1.0000
+chroma_noise_reduction_iteration=1
+# mfnr_saturation_compensation_level=1024	// obsolete
+# mfnr_luminance_gain=1.0000			// obsolete
+# mfnr_color_gamma=1.0000			// obsolete
+# mfnr_contrast_strength=0			// obsolete
+sharpness_enhancement_level=400
+ynr_table=0,0,0,0,0,0,0,0,0,0,0
+cnr_table=0,8,8,8,8,8,8,8,8,8,8
+exposure_fusion_params=10,180
+# exposure_fusion_face_care_enabled=0

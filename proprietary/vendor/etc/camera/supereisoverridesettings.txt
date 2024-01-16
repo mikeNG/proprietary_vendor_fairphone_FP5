@@ -1,0 +1,2 @@
+EISWidthMargin=0.2
+EISHeightMargin=0.67

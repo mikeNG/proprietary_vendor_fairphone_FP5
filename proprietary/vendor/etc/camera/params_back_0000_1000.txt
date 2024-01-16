@@ -1,0 +1,21 @@
+#camera_motion_threshold=0.8
+#ghost_removal_strength=3.0
+#ghost_rate_threshold=0.2
+# color_enhancement=0.003,0.002
+# mfnr_ghost_removal_strength=1.2
+# mfnr_texture_preservation_level=64
+# mfnr_saturation_compensation_level=1024
+# mfnr_luminance_gain=1.0
+# mfnr_color_gamma=1.0
+# mfnr_contrast_strength=0
+#ynr_table=0,16,16,16,16,10,5,5,5,5,5
+#cnr_table=0,16,16,16,8,4,4,4,4,4,4
+# exposure_fusion_params=10,180
+# fine_exposure_fusion=0
+sharpness_enhancement_level=0
+
+
+ghost_removal_strength=3.5
+ynr_table=0,4,4,4,5,5,5,5,5,5,5
+cnr_table=0,3,3,3,4,4,4,4,4,4,4
+#exposure_fusion_params=100,200
